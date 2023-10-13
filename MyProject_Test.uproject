@@ -5,11 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "Landmass",
+			"Name": "Water",
 			"Enabled": true
 		},
 		{
-			"Name": "Water",
+			"Name": "Landmass",
 			"Enabled": true
 		}
 	]
